@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Junggeon%20Park&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ju._.ng613&fontSize=40)
 # Hello, I'm Junggeon Park
 
 Frontend / Full-Stack Developer 
