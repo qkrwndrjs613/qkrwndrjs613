@@ -34,7 +34,7 @@ https://github.com/qkrwndrjs613/ai-subtitle-generator
 - Google Translation API 연동
 
 Repository  
-https://github.com/qkrwndrjs613
+https://github.com/juyoungck/TravelerProject
 
 
 ---
@@ -48,7 +48,8 @@ AI 기반 운동 및 식단 추천 플랫폼
 - React 기반 프론트엔드 개발
 
 Repository  
-https://github.com/qkrwndrjs613
+https://github.com/juyoungck/healthcareproject-frontend
+https://github.com/Ozymandias089/healthcareproject-backend
 
 
 ---
