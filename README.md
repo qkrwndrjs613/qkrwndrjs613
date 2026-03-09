@@ -20,7 +20,7 @@ AI 기반 운동 및 식단 추천 플랫폼
 - React 기반 프론트엔드 개발
 
 Repository
-- Frontend: https://github.com/juyoungck/healthcareproject-frontend
+- Frontend: https://github.com/qkrwndrjs613/healthcareproject-frontend
 - Backend: https://github.com/Ozymandias089/healthcareproject-backend
 
 ---
