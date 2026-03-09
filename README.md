@@ -35,7 +35,7 @@ Repository
 - Google Translation API 연동
 
 Repository  
-https://github.com/juyoungck/TravelerProject
+https://github.com/qkrwndrjs613/TravelerProject
 
 
 ---
