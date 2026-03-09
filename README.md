@@ -82,9 +82,9 @@ https://github.com/qkrwndrjs613/ai-subtitle-generator
 
 # GitHub Stats & Languages
 
-<p>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qkrwndrjs613&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qkrwndrjs613&layout=compact&theme=tokyonight" height="150"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=qkrwndrjs613&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrwndrjs613&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
 </p>
 
 # Contact
